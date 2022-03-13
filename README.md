@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jconnolly94
 - 👀 I’m interested in Java, C++, Swift & Artifical Intelligence
-- 🌱 I’m currently studenting Software Development in the Technical University of the Shannon, Midlands Midwest region 
+- 🌱 I’m currently studenting Software Development in the Technical University of the Shannon, Midlands Midwest region (TUS)
 
 
 
